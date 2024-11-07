@@ -1,10 +1,10 @@
 # Ignore model files
 *.keras
 *.h5
-*.p
+*.p 
 
 # Ignore dataset and checkpoints directories
-ASL_Dataset/
+.ASL_Dataset/
 .ipynb_checkpoints/
 
 # Ignore pickle files
@@ -12,6 +12,3 @@ ASL_Dataset/
 
 # Ignore Jupyter Notebook checkpoints and hidden files
 *.ipynb_checkpoints
-
-# Optionally ignore Jupyter Notebook files
-*.ipynb
